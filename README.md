@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou Allan Muniz, estudante de Análise e Desenvolvimento de Sistemas e estagiário Java na RegistroCom. Tenho experiência com Java (8, 12, 17), micro serviços, web services, e testes unitários usando Mockito e JUnit. Minha atuação inclui melhorias de performance, uso de bancos de dados SQL e NoSQL, Hibernate, Git, e metodologias ágeis. Também sou proficiente em Spring Boot, Docker, Apache Kafka, AWS, e automação de infraestrutura com Terraform e CI/CD. Sou proativo, colaborativo e focado na resolução de problemas.
 
 ---
 
