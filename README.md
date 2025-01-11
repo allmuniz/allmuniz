@@ -42,14 +42,6 @@ Sou Allan Muniz, estudante de Análise e Desenvolvimento de Sistemas e estagiár
 />
 <img 
     align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git"
     title="Git"
     width="30px" 
@@ -74,14 +66,6 @@ Sou Allan Muniz, estudante de Análise e Desenvolvimento de Sistemas e estagiár
 />
 <img 
     align="left" 
-    alt="Hibernate"
-    title="Hibernate" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JUnit"
     title="JUnit"
     width="30px" 
@@ -96,15 +80,6 @@ Sou Allan Muniz, estudante de Análise e Desenvolvimento de Sistemas e estagiár
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Mockito"
-    title="Mockito" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mockito/mockito-original.svg" 
-/>
-
 
 <br/>
 <br/>
